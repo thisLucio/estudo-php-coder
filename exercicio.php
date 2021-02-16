@@ -10,13 +10,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Exerício</title>
 </head>
-<body>
+<body class="exercicio">
       <header class="cabecalho">
           <h1>Curso PHP</h1>
           <h2>Visualização do Exercício</h2>
       </header>
+      <nav class="navegacao">
+          <a href="#" class="verde">Sem formatação</a>
+          <a href="index.php" class="vermelho">Voltar</a>
+        </nav>
       <main class="principal">
           <div class="conteudo">
+
           </div>
       </main>
       <footer class="rodape">
